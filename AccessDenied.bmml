@@ -1,0 +1,78 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="655" measuredH="569" mockupW="629" mockupH="546">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="26" y="23" w="629" h="546" measuredW="629" measuredH="546" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="629" h="546" measuredW="629" measuredH="546" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <controlName>PC</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="629" h="514" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>rectangle</shape>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="30" y="42" w="561" h="390" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>13421772</borderColor>
+                <markup>false</markup>
+                <shape>rectangle</shape>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="200" y="433" w="221" h="113" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderColor>13421772</borderColor>
+                <color>13421772</color>
+                <markup>false</markup>
+                <shape>rectangle</shape>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="36" y="46" w="547" h="383" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>A%20Web%20Page%0Ahttp%3A//localhost%3A3000</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::FieldSet" x="200" y="154" w="-1" h="-1" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Login</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="228" y="206" w="53" h="-1" measuredW="52" measuredH="21" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Login%20ID%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="222" y="233" w="59" h="-1" measuredW="59" measuredH="21" zOrder="4" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Password%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="268" y="271" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="5" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Submit</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="281" y="203" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="6" locked="false" isInGroup="0">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="281" y="230" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="7" locked="false" isInGroup="0">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="266" y="173" w="-1" h="-1" measuredW="92" measuredH="21" zOrder="8" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>Access%20Denied%21</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
